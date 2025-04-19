@@ -1,4 +1,5 @@
 App name: deliciousss
+
 Built a fully responsive single-page application (SPA) in React, implementing dynamic recipe search, filtering, and
 detail views with real-time Spoonacular API integration.
 Managed application state and side effects using React hooks (useState, useEffect) to fetch and render external
